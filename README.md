@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome to my profile 👋
+
+My name is Ben Marosites. I am a PhD student at the University of South Carolina. My main interest is Land-Atmosphere interaction, and I am interested in a variety of equipment. Reach out if you want to collaborate or are interested in what we do at USC Micromet Lab.
+
+- Currently analyzing data from a 2018 Field Campaign.
+- Trying to explore ground-based aerosol LIDAR data.
+- I am trying to get better at using GitHub. If you have any suggestions, reach out!
 
 <!--
 **marositesUSC/marositesUSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
